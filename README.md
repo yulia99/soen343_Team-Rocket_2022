@@ -28,7 +28,7 @@ Develop a .....
 * Olivier Langlois Medaino (GitHub: @SkylineP ) Role:
 * Maria Zana (GitHub: @Alexicazana) Role: 
 * Aida Berhe-Negousse (GitHub: @ ) Role:
-* Melisa Panaccione (GitHub: @ ) Role:
+* Melisa Panaccione (GitHub: @Melisa1026 ) Role:
 
 ## Technologies
 
