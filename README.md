@@ -27,7 +27,7 @@ Develop a .....
 * Dzmitry Fiodarau (GitHub: @dzm-fiodarau) Role:
 * Olivier Langlois Medaino (GitHub: @SkylineP ) Role:
 * Maria Zana (GitHub: @Alexicazana) Role: 
-* Aida Berhe-Negousse (GitHub: @ ) Role:
+* Aida Berhe-Negousse (GitHub: @aberhenegousse) Role:
 * Melisa Panaccione (GitHub: @ ) Role:
 
 ## Technologies
